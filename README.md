@@ -39,4 +39,10 @@ Locally preview production build:
 npm run preview
 ```
 
+## 参考記事
+
+```bash
+https://reffect.co.jp/vue/nuxt3
+```
+
 Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
